@@ -8,7 +8,7 @@
 
 An AI-powered ETL framework that automates data cleaning and feature engineering for predictive analytics. Transform raw data into model-ready features with **85% less time** and **11% better accuracy**.
 
-##  Features
+Features
 
 - ** Automated Data Profiling**: Intelligent data type inference and statistical analysis
 - ** AI-Powered Cleaning**: Smart missing value imputation and outlier detection
@@ -17,7 +17,7 @@ An AI-powered ETL framework that automates data cleaning and feature engineering
 - ** Quality Metrics**: Comprehensive data quality assessment
 - ** High Performance**: 85% faster than manual data preparation
 
-##  Requirements
+ Requirements
 
 - Python 3.8 or higher
 - pandas >= 1.5.0
@@ -25,13 +25,14 @@ An AI-powered ETL framework that automates data cleaning and feature engineering
 - scikit-learn >= 1.0.0
 - featuretools >= 1.10.0
 
-##  Installation
+Installation
 
-### Method 1: Install from GitHub
+Method 1: Install from GitHub
 ```bash
 # Clone the repository
 git clone https://github.com/Srinjoy-ghosh-IITJ/SmartETL-Predictive-Analytics/new/main
 cd SmartETL-Predictive-Analytics
 
 # Install dependencies
+
 pip install -r requirements.txt
