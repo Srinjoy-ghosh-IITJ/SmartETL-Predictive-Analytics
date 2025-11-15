@@ -10,12 +10,12 @@ An AI-powered ETL framework that automates data cleaning and feature engineering
 
 Features
 
-- ** Automated Data Profiling**: Intelligent data type inference and statistical analysis
-- ** AI-Powered Cleaning**: Smart missing value imputation and outlier detection
-- ** Advanced Feature Engineering**: Automatic feature creation and selection
-- ** Pipeline Generation**: Export reproducible data processing pipelines
-- ** Quality Metrics**: Comprehensive data quality assessment
-- ** High Performance**: 85% faster than manual data preparation
+- Automated Data Profiling: Intelligent data type inference and statistical analysis
+- AI-Powered Cleaning: Smart missing value imputation and outlier detection
+- Advanced Feature Engineering: Automatic feature creation and selection
+- Pipeline Generation: Export reproducible data processing pipelines
+- Quality Metrics: Comprehensive data quality assessment
+- High Performance: 85% faster than manual data preparation
 
  Requirements
 
@@ -36,3 +36,4 @@ cd SmartETL-Predictive-Analytics
 # Install dependencies
 
 pip install -r requirements.txt
+
